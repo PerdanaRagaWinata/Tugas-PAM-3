@@ -7,7 +7,7 @@
     PENGEMBANGAN APLIKASI MOBILE - RD
 
 
-Untuk menjalankan aplikasi ini ada beberapa hal yang dibutuhkan:
+Untuk menjalankan aplikasi ini, ada beberapa aplikasi yang dibutuhkan:
 - Android Studio
 - vscode
 - react js
