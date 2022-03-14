@@ -29,12 +29,12 @@ Aplikasi ini dapat menerima input lokasi keberangkatan pesawat dari bandara <b>S
 
 Default:
 
-<p align="center"><img width="400" align="center" src="https://github.com/Crymlll/tugas-PAM-3/blob/main/ScreenshotApp/ss1.png" alt="ss1"></p>
+<p align="center"><img width="400" align="center" src="https://github.com/PerdanaRagaWinata/Tugas-PAM-Mg3/tree/main/ScreenshotApp/Screenshot01.jpeg" alt="ss1"></p>
 
 Flight Available:
 
-<p align="center"><img width="400" src="https://github.com/Crymlll/tugas-PAM-3/blob/main/ScreenshotApp/ss3.png" alt="ss3"></p>
+<p align="center"><img width="400" src="https://github.com/PerdanaRagaWinata/Tugas-PAM-Mg3/tree/main/ScreenshotApp/Screenshot02.jpeg" alt="ss3"></p>
 
 Not Flight Available:
 
-<p align="center"><img width="400" src="https://github.com/Crymlll/tugas-PAM-3/blob/main/ScreenshotApp/ss5.png" alt="ss5"></p>
+<p align="center"><img width="400" src="https://github.com/PerdanaRagaWinata/Tugas-PAM-Mg3/tree/main/ScreenshotApp/Screenshot03.jpeg" alt="ss5"></p>
