@@ -19,7 +19,7 @@ Setelah terpasang beberapa aplikasi yang dibutuhkan, kemudian buka vscode lalu d
 
 <b>Penjelasan Aplikasi:</b>
 
-Aplikasi ini dapat menerima input lokasi keberangkatan pesawat 
+Aplikasi ini dapat melakukan pencarian jadwal keberangkataan pesawat
 
 <b>Screenshot Aplikasi:</b>
 
